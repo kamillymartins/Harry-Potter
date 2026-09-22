@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harry Potter - Página 4</title>
+
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <div class="pagina4">
+
+        <div class="bloco4">
+            <h1>
+                O MUNDO<br>
+                MÁGICO
+            </h1>
+        </div>
+
+        <div class="conteudo4">
+
+            <p>
+                O mundo de Harry Potter é cheio de magia, mistérios,
+                criaturas e lugares incríveis que fazem parte da
+                história.
+            </p>
+
+            <div class="informacoes4">
+
+                <div>
+                    <h3>⚡ Hogwarts</h3>
+                    <p>Escola de magia e bruxaria.</p>
+                </div>
+
+                <div>
+                    <h3> Varinhas</h3>
+                    <p>Objetos usados para realizar magia.</p>
+                </div>
+
+                <div>
+                    <h3>🧙 Bruxos</h3>
+                    <p>Pessoas que possuem poderes mágicos.</p>
+                </div>
+
+                <div>
+                    <h3>🦉 Corujas</h3>
+                    <p>Usadas para enviar mensagens.</p>
+                </div>
+
+                <div>
+                    <h3>🏰 Salão Principal</h3>
+                    <p>Um dos lugares mais importantes de Hogwarts.</p>
+                </div>
+
+                <div>
+                    <h3>📜 Feitiços</h3>
+                    <p>Palavras usadas para realizar diferentes magias.</p>
+                </div>
+
+            </div>
+
+            <p>
+                Esses elementos fazem parte do universo mágico criado
+                por J. K. Rowling e ajudam a construir a história de
+                Harry Potter.
+            </p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
